@@ -1,0 +1,135 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+.menu{
+    background-color: aqua;
+    height: 10vh;
+}
+
+.menu1{
+    background-color: #0FC2C0;
+    height: 10vh;
+}
+
+.cuadro1{
+    background-color: #0CABA8;
+    height: 70vh;
+}
+
+.cuadro2{
+    background-color: #008F8C;
+    height: 60vh;
+}
+
+.cuadro3{
+    background-color: #015958;
+    height: 60vh;
+}
+
+.cuadro4{
+    background-color: #023535;
+    height: 60vh;
+}
+
+.cuadro5{
+    background-color: #0FC2C0;
+    height: 40vh;
+}
+
+.cuadro6{
+    background-color: #0CABA8;
+    height: 40vh;
+}
+
+.cuadro7{
+    background-color: #008F8C;
+    height: 40vh;
+}
+
+.cuadro8{
+    background-color: #015958;
+    height: 40vh;
+}
+
+.cuadro9{
+    background-color: #023535;
+    height: 40vh;
+}
+
+.cuadro10{
+    background-color: #015958;
+    height: 40vh;
+}
+
+.cuadro11{
+    background-color: #008F8C;
+    height: 40vh;
+}
+
+.cuadro12{
+    background-color: #0CABA8;
+    height: 40vh;
+}
+
+.cuadro13{
+    background-color: #0FC2C0;
+    height: 40vh;
+}
+
+.cuadro14{
+    background-color: #023535;
+    height: 40vh;
+}
+
+.cuadro15{
+    background-color: #0CABA8;
+    height: 40vh;
+}
+
+.cuadro16{
+    background-color: #015958;
+    height: 40vh;
+}
+
+.cuadro17{
+    background-color: #0FC2C0;
+    height: 40vh;
+}
+
+.cuadro18{
+    background-color: #023535;
+    height: 40vh;
+}
+
+.cuadro19{
+    background-color: #0CABA8;
+    height: 40vh;
+}
+
+.cuadro20{
+    background-color: #023535;
+    height: 40vh;
+}
+
+.cuadro21{
+    background-color: #008F8C;
+    height: 40vh;
+}
+
+.cuadro22{
+    background-color: #0FC2C0;
+    height: 40vh;
+}
+
+.cuadro23{
+    background-color: #023535;
+    height: 40vh;
+}
+
